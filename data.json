@@ -1,0 +1,26 @@
+{
+    "animais": [
+        {
+            "nome": "lucas",
+            "idade": 21,
+            "tipo": "cachorro"
+        },
+        {
+            "nome": "alfredo",
+            "idade": 21,
+            "tipo": "cachorrão"
+        }
+    ],
+    "consultas": [],
+    "mensagens_processadas": 2,
+    "eventos": [
+        {
+            "hora": "11:33:09",
+            "evento": "Animal 'lucas' cadastrado"
+        },
+        {
+            "hora": "11:34:14",
+            "evento": "Animal 'alfredo' cadastrado"
+        }
+    ]
+}
