@@ -1,4 +1,4 @@
-# Sistema Clínica Veterinária — Trabalho 4 (Sistemas Distribuídos)
+# Sistema Clínica Veterinária — Trabalho 3 e 4 (Sistemas Distribuídos)
 
 **Universidade Federal do Ceará — Campus Quixadá**
 **Disciplina:** Sistemas Distribuídos
